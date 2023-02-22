@@ -1,0 +1,247 @@
+.main {
+	&__content {
+		display: flex;
+		margin-bottom: 30px;
+	}
+}
+
+.categories {
+	ul {
+		display: flex;
+		justify-content: center;
+		gap: 30px;
+		padding: 20px 0;
+		li {
+			cursor: pointer;
+			text-align: left;
+			font-size: 28px;
+			line-height: 1.14286;
+			font-weight: 600;
+			letter-spacing: 0.007em;
+			padding: 5px 20px;
+			border-radius: 20px;
+			&:not(:last-child) {
+				margin: 0 0 5px 0;
+			}
+			&:hover {
+				background-color: darken(#f9f9f9, 2%);
+			}
+
+			&:active {
+				background-color: darken(#f9f9f9, 5%);
+			}
+			&.active {
+				background-color: #817c7c;
+				color: #fff;
+			}
+		}
+	}
+}
+
+// ============================= sidebar ===========================
+
+.sidebar {
+	display: flex;
+	flex: 1 1 16%;
+	flex-direction: column;
+	gap: 20px;
+	h3 {
+		font-size: 20px;
+		font-weight: 700;
+	}
+	&__item {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: 15px;
+		position: relative;
+		span {
+			font-size: 16px;
+			font-weight: 400;
+			letter-spacing: 0.5px;
+			color: #504e4e;
+		}
+	}
+	&__item-arrow {
+		margin-bottom: -3px;
+	}
+
+	&__inputs {
+		display: flex;
+		flex-direction: column;
+		h3 {
+			margin-bottom: 15px;
+		}
+	}
+	&__form {
+		display: flex;
+		flex-direction: column;
+		gap: 50px;
+	}
+	&__input {
+		border-radius: 10px;
+		width: 150px;
+	}
+}
+
+.styled-checkbox {
+	position: absolute;
+	opacity: 0;
+
+	& + label {
+		position: relative;
+		cursor: pointer;
+		padding: 0;
+		span {
+			margin: 0 0 0 20px;
+			font-size: 17px;
+		}
+	}
+
+	// Box.
+	& + label:before {
+		margin-top: -5.5px;
+		content: '';
+		display: inline-block;
+		vertical-align: text-top;
+		width: 22px;
+		height: 22px;
+		background: white;
+		border: 1px solid rgba(0, 0, 0, 0.1);
+		border-radius: 8px;
+	}
+
+	// Box hover
+	&:hover + label:before {
+		background: #f9f9f9;
+	}
+
+	// Box checked
+	&:checked + label:before {
+		background: #403ec0;
+	}
+
+	// Checkmark. Could be replaced with an image
+	&:checked + label:after {
+		margin-top: -5.9px;
+		content: '';
+		position: absolute;
+		left: 6px;
+		top: 11px;
+		background: white;
+		width: 2px;
+		height: 2px;
+		box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white,
+			4px -6px 0 white, 4px -8px 0 white;
+		transform: rotate(45deg);
+	}
+}
+
+// =========================== store-list =========================
+
+.store__list {
+	flex: 1 1 90%;
+}
+
+.store__items {
+	display: flex;
+	gap: 30px;
+	flex-wrap: wrap;
+}
+
+.item-store {
+	display: flex;
+	flex-direction: column;
+	padding-top: 10px;
+	font-size: 28px;
+	line-height: 1.14286;
+	font-weight: 600;
+	letter-spacing: 0.007em;
+	border-radius: 12px;
+	flex: 0 1 20%;
+	position: relative;
+	cursor: pointer;
+	background-color: #fff;
+	box-shadow: 2px 4px 12px rgb(0 0 0 / 8%);
+	transition: all 0.3s cubic-bezier(0, 0, 0.5, 1);
+
+	&__button {
+		cursor: pointer;
+		opacity: 0;
+		position: absolute;
+		bottom: 80px;
+		left: 50%;
+		display: inline-block;
+		white-space: nowrap;
+		font-size: 19px;
+		line-height: 1.17648;
+		font-weight: 400;
+		letter-spacing: -0.022em;
+		transform: translate(-50%);
+		transition: 0.5s;
+		min-width: 28px;
+		padding: 8px 16px;
+		border-radius: 980px;
+		background: #e8e8ed;
+		color: #000;
+	}
+
+	&__content {
+		padding: 0 15px 15px 15px;
+	}
+
+	&__image {
+		img {
+			border-radius: 12px 12px 0 0;
+			width: 234px;
+			height: 180px;
+		}
+	}
+
+	&__name {
+		font-size: 18px;
+		letter-spacing: 1.8%;
+		margin: 20px 0 10px 0;
+	}
+
+	&__item {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__price {
+		font-size: 18px;
+		color: #504e4e;
+	}
+	&__rating {
+		display: flex;
+		align-items: center;
+		gap: 5px;
+		border-radius: 15px;
+		width: 70px;
+		height: 25px;
+		color: #fff;
+		background-color: #403ec0;
+		span {
+			font-size: 17px;
+			margin-top: 2px;
+		}
+	}
+	&__rating-star {
+		font-weight: 700;
+		font-size: 23px;
+		margin: 1px 0 0 5px;
+		color: #f9f3f3;
+	}
+}
+
+.item-store:hover {
+	transform: translate(-50%, -50%);
+	box-shadow: 2px 4px 16px rgb(0 0 0 / 16%);
+	transform: scale3d(1.01, 1.01, 1.01);
+	.item-store__button {
+		opacity: 1;
+		transform: translate(-50%, -50%);
+	}
+}

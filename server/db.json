@@ -1,0 +1,658 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"name": "iPhone 14Pro",
+			"category": 1,
+			"price": 999,
+			"discount": 20,
+			"rating": 4.9,
+			"memory": [
+				{
+					"value": 128,
+					"price": 999
+				},
+				{
+					"value": 256,
+					"price": 1099
+				},
+				{
+					"value": 512,
+					"price": 1299
+				},
+				{
+					"value": 1,
+					"price": 1499
+				}
+			],
+			"info": [
+				{
+					"icon": "6.1",
+					"text": "Brighter 6.1” Super Retina XDR display¹ featuring Always-On, which keeps your info at a glance"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_dynamic_island__d9d7y565nzsm_large.png",
+					"text": "Dynamic Island, a magical new way to interact with iPhone"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_sos__d13do2p9n7qu_large.png",
+					"text": "Emergency SOS via satellite² and Crash Detection — groundbreaking features designed to save lives³"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_14_pro_camera__fxu2mrckyk2u_large.png",
+					"text": "48MP Main camera with an advanced quad-pixel sensor for up to 4x the resolution"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_a16__fjqclpv24fma_large.png",
+					"text": "A16 Bionic chip — superfast and superefficient for amazing all-day battery life"
+				}
+			],
+			"colors": [
+				{
+					"value": "#303950",
+					"name": "Deep Purple",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840578",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754251868",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754255928"
+					]
+				},
+				{
+					"value": "#E6BE8A",
+					"name": "Gold",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-gold?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840519",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-gold_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754254250",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-gold_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754258490"
+					]
+				},
+				{
+					"value": "silver",
+					"name": "Silver",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-silver?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840488",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-silver_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754253990",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-silver_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754259155"
+					]
+				},
+				{
+					"value": "#505150",
+					"name": "Space Black",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840510",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754254241",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754259277"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-1-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1660830896184",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-2-202209?wid=364&hei=333&fmt=png-alpha&.v=1660830896841",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1663346233180",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-4-202209?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1660830896885",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-5-202209?wid=364&hei=333&fmt=png-alpha&.v=1663346233360",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-6-202209?wid=364&hei=333&fmt=png-alpha&.v=1660830896167"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14pro-digitalmat-gallery-5-202209?wid=364&hei=333&fmt=png-alpha&.v=1663346233360"
+		},
+		{
+			"id": 2,
+			"name": "iPhone 14",
+			"category": 1,
+			"price": 799,
+			"discount": 16,
+			"rating": 4.8,
+			"memory": [
+				{
+					"value": 128,
+					"price": 799
+				},
+				{
+					"value": 256,
+					"price": 899
+				},
+				{
+					"value": 512,
+					"price": 1099
+				}
+			],
+			"info": [
+				{
+					"icon": "6.1",
+					"text": "6.1-inch Super Retina XDR display¹ that’s sharp, vibrant, and bright"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_battery__wqowcbwj50y2_large.png",
+					"text": "Awesome all-day battery life with up to 20 hours video playback²"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_sos__d13do2p9n7qu_large.png",
+					"text": "Emergency SOS via satellite² and Crash Detection — groundbreaking features designed to save lives³"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_14_pro_camera__fxu2mrckyk2u_large.png",
+					"text": "48MP Main camera with an advanced quad-pixel sensor for up to 4x the resolution"
+				},
+				{
+					"icon": "https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_a16__fjqclpv24fma_large.png",
+					"text": "A16 Bionic chip — superfast and superefficient for amazing all-day battery life"
+				}
+			],
+			"colors": [
+				{
+					"value": "#97c5e9",
+					"name": "Blue",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026582322",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026556478",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026704198"
+					]
+				},
+				{
+					"value": "#a1a6c4",
+					"name": "Purple",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205808",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027153978",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027358341"
+					]
+				},
+				{
+					"value": "#343836",
+					"name": "Midnight",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026579503",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026536568",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026699747"
+					]
+				},
+				{
+					"value": "#d8d9de",
+					"name": "Starlight",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027204398",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027152804",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027338902"
+					]
+				},
+				{
+					"value": "red",
+					"name": "(Product)Red",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205642",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027159917",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027370210"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-1-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1662055814177",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-2-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055814304",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055813794",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-4-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055813751",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-5-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055808737",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-6-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055814083"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone14-digitalmat-gallery-3-202209?wid=364&hei=333&fmt=png-alpha&.v=1662055813794"
+		},
+		{
+			"id": 3,
+			"name": "Apple Watch Ultra",
+			"category": 3,
+			"price": 799,
+			"discount": 16,
+			"rating": 4.9,
+			"memory": [{ "size": 49, "price": 799 }],
+			"info": [
+				{
+					"icon": "49",
+					"text": "The ultra tough 49mm titanium case with new Action button strikes a balance with weight, ruggedness, and corrosion resistance"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_retina_display_ultra__d3e6x9is0pkm_large.png",
+					"text": "Biggest, brightest Always-On Retina display that’s readable in the harshest conditions"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_heart_rate_notifications__dwkylcnr0nu6_large.png",
+					"text": "High and low heart, rate notifications, Irregular rhythm notification4"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_temperature_sensing__dwxwqe1iyeqa_large.png",
+					"text": "Temperature sensing5,Cycle tracking,with retrospective,ovulation estimates6"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_sos__eevzwecgdqaa_large.png",
+					"text": "Emergency SOS7 International emergency calling8 Fall Detection Crash Detection7 86-decibel Siren to attract attention"
+				}
+			],
+			"colors": [
+				{
+					"value": "#d8d9de",
+					"name": "Starlight",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQE53ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660713635480%2C1660927566964%2C1660927563656",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQE53ref_VW_PF+watch-49-titanium-ultra_VW_PF_WF_CO+watch-face-49-alpine-ultra_VW_PF_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660713630988%2C1660927567672%2C1660927561147",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQE53ref?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660715723119"
+					]
+				},
+				{
+					"value": "#364244",
+					"name": "Green",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQE23ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660713657930%2C1660927566964%2C1660927563656",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQE23ref_VW_PF+watch-49-titanium-ultra_VW_PF_WF_CO+watch-face-49-alpine-ultra_VW_PF_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660713639717%2C1660927567672%2C1660927561147",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQE23ref?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660715727375"
+					]
+				},
+				{
+					"value": "#ff7b00",
+					"name": "Orange",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660713659063%2C1660927566964%2C1660927563656",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQDY3ref_VW_PF+watch-49-titanium-ultra_VW_PF_WF_CO+watch-face-49-alpine-ultra_VW_PF_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660713658959%2C1660927567672%2C1660927561147",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQDY3ref?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660715729849"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-ultra-digitalmat-gallery-1-202209?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1661728311855",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-ultra-digitalmat-gallery-2-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1661794573478",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-ultra-digitalmat-gallery-3-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1661557390611",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-ultra-digitalmat-gallery-4-202209?wid=364&hei=333&fmt=png-alpha&.v=1661728311818",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-ultra-digitalmat-gallery-5-202209?wid=364&hei=333&fmt=png-alpha&.v=1661470378831"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra-202209?wid=340&hei=264&fmt=png-alpha&.v=1664212622022"
+		},
+		{
+			"id": 4,
+			"name": "Apple Watch SE",
+			"category": 3,
+			"price": 249,
+			"discount": 16,
+			"rating": 4.5,
+			"memory": [
+				{ "size": 40, "price": 249 },
+				{ "size": 44, "price": 279 }
+			],
+			"info": [
+				{
+					"icon": "44",
+					"text": "Swimproof1"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_retina_display_se__bkqpyec086ya_large.png",
+					"text": "Retina display Up to 1000 nits"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_heart_rate_notifications__dwkylcnr0nu6_large.png",
+					"text": "High and low heart, rate notifications, Irregular rhythm notification4"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_temperature_sensing__dwxwqe1iyeqa_large.png",
+					"text": "Cycle tracking6"
+				},
+				{
+					"icon": "https://www.apple.com/v/watch/bb/images/compare/quicklook_sos__eevzwecgdqaa_large.png",
+					"text": "Emergency SOS7 International emergency calling8 Fall Detection Crash Detection7"
+				}
+			],
+			"colors": [
+				{
+					"value": "#ffd471",
+					"name": "Sunglow",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPDU3ref_VW_34FR+watch-40-alum-silver-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660779705300%2C1660759317201",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPDU3ref_VW_PF+watch-40-alum-silver-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660779704571%2C1660759317221",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPDU3ref?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660711212212"
+					]
+				},
+				{
+					"value": "red",
+					"name": "(Product)Red",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQGU3ref_VW_34FR+watch-44-alum-silver-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1661117948647%2C1660759430370",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQGU3ref_VW_PF+watch-44-alum-silver-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1661117948533%2C1660759425993",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQGU3ref?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660858506595"
+					]
+				},
+				{
+					"value": "#17182b",
+					"name": "Elderberry",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLD3_VW_34FR+watch-44-alum-starlight-nc-se_VW_34FR_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660780895363%2C1660759487602",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLD3_VW_PF+watch-44-alum-starlight-nc-se_VW_PF_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660780877752%2C1660759485744",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLD3?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660799010979"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-se-digitalmat-gallery-1-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1661540290050",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-se-digitalmat-gallery-2-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1661552513037",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-se-digitalmat-gallery-3-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1661540304948",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-se-digitalmat-gallery-4-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1661540295035",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-se-digitalmat-gallery-5-202209_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1661555145689"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-se-202209_GEO_US?wid=340&hei=264&fmt=png-alpha&.v=1661812058124"
+		},
+		{
+			"id": 5,
+			"name": "MacBook Pro 14",
+			"category": 2,
+			"price": 2499,
+			"discount": 16,
+			"rating": 4.4,
+			"memory": [
+				{
+					"value": 1,
+					"price": 2499
+				},
+				{
+					"value": 2,
+					"price": 2899
+				},
+				{
+					"value": 4,
+					"price": 3499
+				},
+				{
+					"value": 8,
+					"price": 4699
+				}
+			],
+			"info": [
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_m2__c5vv0ufcdyc2_large.png",
+					"text": "M2 Pro or M2 Max — the most powerful and efficient chip ever in a pro laptop — helps you take on the most demanding projects"
+				},
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large.png",
+					"text": "Go all day with up to 18 hours of battery life,¹ thanks to the efficiency of Apple silicon"
+				},
+				{
+					"icon": "14.2",
+					"text": "Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors"
+				},
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large.png",
+					"text": "Look sharp and sound clear — anywhere — with the 1080p FaceTime HD camera, three studio-quality mics, and six speakers with Spatial Audio"
+				},
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touchid__fanxgkqe1xei_large.png",
+					"text": "Touch ID"
+				}
+			],
+			"colors": [
+				{
+					"value": "#717378",
+					"name": "Space Gray",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202301?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1671304673229"
+					]
+				},
+				{
+					"value": "silver",
+					"name": "Silver",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-select-202301?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1671568460416"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202301?wid=364&hei=333&fmt=png-alpha&.v=1670360625864",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-2-202301_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1671026233419",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-3-202301?wid=364&hei=333&fmt=png-alpha&.v=1670360625668",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-4-202301?wid=364&hei=333&fmt=png-alpha&.v=1670360625870",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-5-202301?wid=364&hei=333&fmt=png-alpha&.v=1670360625596",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-6-202301?wid=364&hei=333&fmt=png-alpha&.v=1670360625853",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-7-202301?wid=364&hei=333&fmt=png-alpha&.v=1670869304794"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202301?wid=364&hei=333&fmt=png-alpha&.v=1670360625864"
+		},
+		{
+			"id": 6,
+			"name": "MacBook Pro 13",
+			"category": 2,
+			"price": 1299,
+			"discount": 16,
+			"rating": 4.3,
+			"memory": [
+				{
+					"value": 256,
+					"price": 1299
+				},
+				{
+					"value": 512,
+					"price": 1499
+				},
+				{
+					"value": 1,
+					"price": 1899
+				},
+				{
+					"value": 2,
+					"price": 2699
+				}
+			],
+			"info": [
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_m2__c5vv0ufcdyc2_large.png",
+					"text": "Get more done faster with the next-generation Apple M2 chip and an active cooling system that sustains pro levels of performance"
+				},
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large.png",
+					"text": "Go all day and into the night with up to 20 hours of battery lifefootnote¹"
+				},
+				{
+					"icon": "13.3",
+					"text": "Retina display with 500 nits of brightness delivers vibrant colors and incredible detail"
+				},
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large.png",
+					"text": "Look sharp and sound clear — anywhere — with the 720p FaceTime HD camera, three studio-quality mics, and six speakers with Spatial Audio"
+				},
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touch_id_touch_bar__e6rwp5pfboae_large.png",
+					"text": "Touch Bar and Touch ID"
+				}
+			],
+			"colors": [
+				{
+					"value": "#717378",
+					"name": "Space Gray",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202206?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1664497359481"
+					]
+				},
+				{
+					"value": "silver",
+					"name": "Silver",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-silver-select-202206?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1664497095569"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-digitalmat-gallery-1-202206?wid=364&hei=333&fmt=png-alpha&.v=1664613515821",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-digitalmat-gallery-2-202206?wid=364&hei=333&fmt=png-alpha&.v=1665427483152",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-digitalmat-gallery-3-202206?wid=364&hei=333&fmt=png-alpha&.v=1652888111181",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-digitalmat-gallery-4-202206?wid=364&hei=333&fmt=png-alpha&.v=1652888111195"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-pro-13-202206?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1665082744007"
+		},
+		{
+			"id": 7,
+			"name": "iPad Pro 11",
+			"category": 4,
+			"price": 799,
+			"discount": 16,
+			"rating": 4.7,
+			"memory": [
+				{
+					"value": 128,
+					"price": 799
+				},
+				{
+					"value": 256,
+					"price": 899
+				},
+				{
+					"value": 512,
+					"price": 1099
+				},
+				{
+					"value": 1,
+					"price": 1499
+				},
+				{
+					"value": 2,
+					"price": 1899
+				}
+			],
+			"info": [
+				{
+					"icon": "https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_m2__c5vv0ufcdyc2_large.png",
+					"text": "The Apple M2 chip powers a massive leap in performance for pro workflows and all-day battery life¹"
+				},
+				{
+					"icon": "11",
+					"text": "11-inch Liquid Retina displayfootnote² with ProMotion, True Tone, and P3 wide color"
+				},
+				{
+					"icon": "https://www.apple.com/v/ipad/home/cd/images/overview/compare-features/icon_camera_dual_lens_1__gghfjcu81eqi_large.jpg",
+					"text": "Pro cameras with LiDAR Scanner, and Ultra Wide front camera with Center Stage"
+				},
+				{
+					"icon": "https://www.apple.com/v/ipad/home/cd/images/overview/compare-features/icon_cellular_5g__cei94kfo9hyu_large.jpg",
+					"text": "Wi-Fi 6E for the fastest Wi-Fi connections. And 5G for superfast downloads and high-quality streaming.³"
+				},
+				{
+					"icon": "https://www.apple.com/v/ipad/home/cd/images/overview/compare-features/icon_keyboard_magic__gj8e0r1o3662_large.jpg",
+					"text": "Compatible with Apple Pencil (2nd generation), Magic Keyboard, and Smart Keyboard Foliofootnote⁴"
+				}
+			],
+			"colors": [
+				{
+					"value": "#717378",
+					"name": "Space Gray",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-storage-select-202212-11inch-space-gray?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595162112",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray_AV1?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594751544",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray_AV2?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594753728"
+					]
+				},
+				{
+					"value": "silver",
+					"name": "Silver",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-silver?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594750039",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-silver_AV1?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1669998586339",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-silver_AV2?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594752619"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-1-202210?wid=364&hei=333&fmt=png-alpha&.v=1664477161220",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-2-202210?wid=364&hei=333&fmt=png-alpha&.v=1665083965975",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-3-202210?wid=364&hei=333&fmt=png-alpha&.v=1664477161231",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-4-202210?wid=364&hei=333&fmt=png-alpha&.v=1664477161238",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-5-202210?wid=364&hei=333&fmt=png-alpha&.v=1664477161177"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-pro-202210?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1664578794100"
+		},
+		{
+			"id": 8,
+			"name": "iPad Air",
+			"category": 4,
+			"price": 599,
+			"discount": 16,
+			"rating": 4.9,
+			"memory": [
+				{
+					"value": 64,
+					"price": 599
+				},
+				{
+					"value": 256,
+					"price": 749
+				}
+			],
+			"info": [
+				{
+					"icon": "https://www.apple.com/v/ipad/home/cd/images/overview/compare-features/icon_chip_m1__cnvhdkld11ea_large.jpg",
+					"text": "Apple M1 chip powers next-level performance and all-day battery lifefootnote¹"
+				},
+				{
+					"icon": "10.9",
+					"text": "10.9-inch Liquid Retina display delivers an immersive viewing experiencefootnote²"
+				},
+				{
+					"icon": "https://www.apple.com/v/ipad/home/cd/images/overview/compare-features/icon_camera_single_lens_6__bbghynrp61aq_large.jpg",
+					"text": "12MP Ultra Wide front camera with Center Stage for more natural video calls"
+				},
+				{
+					"icon": "https://www.apple.com/v/ipad/home/cd/images/overview/compare-features/icon_cellular_5g__cei94kfo9hyu_large.jpg",
+					"text": "Get blazing-fast 5G on cellular models and superfast Wi-Fi with Wi-Fi 6footnote³"
+				},
+				{
+					"icon": "https://www.apple.com/v/ipad/home/cd/images/overview/compare-features/icon_keyboard_magic__gj8e0r1o3662_large.jpg",
+					"text": "Compatible with Apple Pencil (2nd generation), Magic Keyboard, and Smart Keyboard Foliofootnote⁴"
+				}
+			],
+			"colors": [
+				{
+					"value": "#717378",
+					"name": "Space Gray",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-space-gray?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585247239",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-space-gray_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585248369",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-space-gray_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585250587"
+					]
+				},
+				{
+					"value": "#97c5e9",
+					"name": "Blue",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991953754",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991955255",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991958214"
+					]
+				},
+				{
+					"value": "pink",
+					"name": "Pink",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991954257",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991955167",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991958434"
+					]
+				},
+				{
+					"value": "#7d8198",
+					"name": "Purple",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-storage-select-202207-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1654903002745",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-purple_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585246632",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-purple_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585250448"
+					]
+				},
+				{
+					"value": "#d8d9de",
+					"name": "Starlight",
+					"images": [
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585247381",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-starlight_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585248012",
+						"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-starlight_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667585250453"
+					]
+				}
+			],
+			"slides": [
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadair-digitalmat-gallery-1-202203?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1644962768135",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadair-digitalmat-gallery-2-202203_GEO_US?wid=364&hei=333&fmt=png-alpha&.v=1645724601636",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadair-digitalmat-gallery-3-202203?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1644962768498",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadair-digitalmat-gallery-4-202203?wid=364&hei=333&fmt=jpeg&qlt=95&.v=1644962768511",
+				"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadair-digitalmat-gallery-5-202203?wid=364&hei=333&fmt=png-alpha&.v=1644962768260"
+			],
+			"imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-air-202203?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1674662574485"
+		}
+	]
+}

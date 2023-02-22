@@ -1,0 +1,176 @@
+.App {
+	position: relative;
+	min-height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+[class*='_container'] {
+	max-width: 1240px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+
+.header {
+	padding: 20px 0;
+	margin: 0 0 30px 0;
+	position: sticky;
+	top: 0;
+	right: 0;
+	z-index: 2;
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 0px 0px 3px #b4afaf;
+	background-color: #fff;
+	&__content {
+		display: flex;
+		text-align: center;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__logo {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		cursor: pointer;
+
+		h3 {
+			padding-top: 14px;
+			font-size: 26px;
+			color: #6e6b6b;
+		}
+		img {
+			width: 30px;
+			height: 30px;
+		}
+	}
+
+	&__block {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 15px;
+	}
+
+	&__title {
+		margin-top: 10px;
+		padding: 10px 25px;
+		font-size: 20px;
+		color: #6e6b6b;
+		transition: all 0.3s ease 0s;
+		border-right: 1px solid #ccc;
+		cursor: pointer;
+		transition: all 0.3s ease 0s;
+
+		&:hover {
+			background-color: #403ec0;
+			color: #fff;
+		}
+	}
+
+	&__cart {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		gap: 10px;
+		margin-left: 10px;
+		cursor: pointer;
+		position: relative;
+		h3 {
+			position: absolute;
+			width: 24px;
+			height: 24px;
+			right: -8px;
+			bottom: -10px;
+			z-index: 2;
+			text-align: center;
+			font-size: 15px;
+			font-weight: 700;
+			color: #fff;
+			border-radius: 50%;
+			background-color: #403ec0;
+			span {
+				position: absolute;
+				bottom: 13%;
+			}
+		}
+	}
+	&__cart-icon {
+		font-size: 28px;
+		color: #878280;
+	}
+}
+
+.input {
+	border: 1px solid #ccc;
+	font-size: 18px;
+	height: 38px;
+	padding: 4px 8px;
+	position: absolute;
+	width: 50%;
+	&:focus {
+		outline: none;
+	}
+}
+
+button {
+	text-align: center;
+	&:focus {
+		outline: none;
+	}
+	&.btn-search,
+	&.btn-reset {
+		background: hotpink;
+		border: none;
+		height: 30px;
+		font-size: 12px;
+		padding: 4px;
+		position: absolute;
+		width: 30px;
+	}
+}
+
+.header__input {
+	float: left;
+	height: 29px;
+	margin: 0 8%;
+	position: relative;
+	width: 34%;
+	&.one,
+	&.two {
+		input {
+			border-radius: 20px;
+			right: 0;
+			transition: all 0.3s ease-in-out;
+			width: 50%;
+			&:focus {
+				width: 100%;
+				~ button {
+					&.btn-search {
+						background: #403ec0;
+						color: #fff;
+					}
+					&.btn-reset {
+						right: -22px;
+					}
+				}
+			}
+		}
+		.btn-icon {
+			font-size: 16px;
+			margin-bottom: -1px;
+		}
+		button {
+			transition: all 0.3s ease-in-out;
+			&.btn-search {
+				background: #ccc;
+				border-radius: 20px;
+				height: 31px;
+				width: 31px;
+				top: 3px;
+				right: 4px;
+				transition: all 0.3s ease-in-out;
+			}
+		}
+	}
+}
